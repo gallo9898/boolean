@@ -1,0 +1,84 @@
+.generale {
+    margin: auto;  
+    padding-top: 6%;
+    padding-bottom: 7%;
+    background-color: rgba(0, 0, 0, 0.482);
+    width:65%;
+    border-radius: 1%;
+    font-family: Helvetica;
+}
+
+.logo {
+    text-align: center;
+}
+
+
+#foto {
+ width: 22%;   
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position-x: center;
+}
+
+.titolo {
+    color: #08dc04;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.navigatore {
+    background-color: #08dc04;
+    margin: auto;
+    width: 75%;
+    text-align: center;
+    padding: 1%;
+    border-radius: 0px;
+}
+
+.test {
+    color: white;
+    margin: auto;
+    width: 78%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.monopattino {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding: 0;
+    font-size: 22px;
+
+}
+.via {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 0;
+
+}
+
+
+.rettangolo {
+    width: 240px; 
+    height: 30px; 
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.rettangolo2 {
+    width: 450px; 
+    height: 30px; 
+    background-color:#08dc04;
+    border-radius: 10px;
+}
+
+.rettangolo3 {
+    width: 150px; 
+    height: 30px; 
+    background-color: red;
+    border-radius: 10px;
+}
